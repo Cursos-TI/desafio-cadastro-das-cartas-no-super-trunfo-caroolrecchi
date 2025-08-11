@@ -40,7 +40,7 @@ printf(" Informe a População: \n");
 scanf("%f", &populacao);
 
 printf(" Informe a Área (em km²): \n");
-scanf("%.2f", &area);
+scanf("%f", &area);
 
 printf("Informe o PIB (em bilhões): \n");
 scanf("%f", &pib);
@@ -65,7 +65,7 @@ printf(" Informe a População: \n");
 scanf("%f", &populacao2);
 
 printf(" Informe a Área (em km²): \n");
-scanf("%.2f", &area2);
+scanf("%f", &area2);
 
 printf("Informe o PIB (em bilhões): \n");
 scanf("%f", &pib2);
