@@ -7,7 +7,7 @@ int main(){
 char estado[10] = "Alagoas";
 char codigo[4] = "A01";
 char cidade[100] = "Maceió";
-float populacao = 1.000.000;
+float populacao = 1000000;
 float area = 503;
 float pib = 27.480;
 int pontosturisticos = 50;
@@ -17,7 +17,7 @@ int pontosturisticos = 50;
 char estado2[10] = "Paraná";
 char codigo2[4] = "B02";
 char cidade2[100] = "Curitiba";
-float populacao2 = 1.773.000;
+float populacao2 = 1773000;
 float area2 = 2;
 float pib2 = 98;
 int pontosturisticos2 = 25;
