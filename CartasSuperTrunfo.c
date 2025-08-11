@@ -8,8 +8,8 @@ char estado[10] = "Alagoas";
 char codigo[4] = "A01";
 char cidade[100] = "Maceió";
 float populacao = 1000000;
-float area = 503;
-float pib = 27.480;
+float area = 503000000;
+float pib = 27480000;
 int pontosturisticos = 50;
 
 //Cadastro da Carta 2:
@@ -18,8 +18,8 @@ char estado2[10] = "Paraná";
 char codigo2[4] = "B02";
 char cidade2[100] = "Curitiba";
 float populacao2 = 1773000;
-float area2 = 2;
-float pib2 = 98;
+float area2 = 2000000;
+float pib2 = 98000000;
 int pontosturisticos2 = 25;
 
 
